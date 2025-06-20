@@ -32,6 +32,9 @@ il faut un service qui fasse tourner un serveur.
 - thèmes un peu limités (juste quelques couleurs) mais rouge ok
 - possibilité de récupérer emails, nombre de participants etc
   - possibilité de limiter le nombre de participants au formulaire, mais pas le nombre d'invités... donc il faudra manuellement fermer les inscriptions si nécessaire...
+- l'intégration marche très bien, notamment en mobile
+- est-ce que une fois le formulaire rempli on peut envoyer un mail de confirmation? générer un pdf?
+  - a priori oui on peut envoyer un mail après réservation. Il semble également possible de demander une confirmation par email
 
 Est-ce que la techno sera pérenne? pas clair...
 - https://framacolibri.org/t/migration-de-yakforms-vers-drupal-11/22662/8
