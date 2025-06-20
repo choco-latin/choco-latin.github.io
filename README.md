@@ -35,6 +35,11 @@ il faut un service qui fasse tourner un serveur.
 - l'intégration marche très bien, notamment en mobile
 - est-ce que une fois le formulaire rempli on peut envoyer un mail de confirmation? générer un pdf?
   - a priori oui on peut envoyer un mail après réservation. Il semble également possible de demander une confirmation par email
+  - bon c'est pas hyper bien foutu... en gros toute personne qui remplit le formulaire est enregistrée. Dans un deuxième temps ils recoivent un mail demandant de confirmer, ce qui les range dans la catégorie "confirmé" que l'on peut filtrer mais pas sur les données d'analyse...
+  - ah mais il faut définir un temps pour que les gens confirment (par default infini) et APRES c'est supprimé..! 
+  - non ce n'est pas supprimé. n'a pas l'air très au point ... https://framacolibri.org/t/systeme-de-validation-non-fonctionnel/19966
+  - j'ai ouvert une issue : https://framacolibri.org/t/soucis-avec-le-systeme-de-validation/26374
+  - en tout cas on peut bien recevoir un mail de confirmation après avoir cliqué sur le lien
 
 Est-ce que la techno sera pérenne? pas clair...
 - https://framacolibri.org/t/migration-de-yakforms-vers-drupal-11/22662/8
