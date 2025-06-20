@@ -23,6 +23,8 @@ il faut un service qui fasse tourner un serveur.
 - https://liveformhq.com/pricing 3€/mois, soumissions illimitées, 5 forms/months
 - https://formcarry.com idem que formspree
 - Framaforms???
+- pour le formulaire de contact on peut simplement passer par des services comme https://web3forms.com/ qui renvoient le texte par mail. cf. https://www.reddit.com/r/webdev/comments/1325q3s/anyone_used_formsubmitco_before/ bon au fond c'est pareil que tout ce qui précède
+- https://www.staticforms.xyz/pricing 500 emails par mois gratuit, sympa?
 
 ## framaforms
 
@@ -53,3 +55,10 @@ formulaire dessous :
 <iframe src="https://framaforms.org/titre-test-integration-1750409054" width="100%" height="800" border="0"></iframe>
 
 formulaire dessus :
+
+## netifly
+
+bon apparemment c'est comme github pages mais avec + de services... a voir..
+
+- creer un formulaire de contact : https://www.hywel.me/sites/2021/11/15/website-page-with-contact-form-using-html-github-and-netlify.html
+- migrer depuis github : https://www.gorillasun.de/blog/migrating-from-github-pages-to-netlify/
